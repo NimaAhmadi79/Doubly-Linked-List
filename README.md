@@ -24,7 +24,7 @@ A double-ended queue (deque) is an ordered list of elements that allows insertio
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/double-ended-queue.git
+   git clone https://github.com/NimaAhmadi79/Doubly-Linked-List.git
    ```
 
 2. Navigate to the project directory:
